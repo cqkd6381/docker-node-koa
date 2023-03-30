@@ -1,0 +1,7 @@
+{
+  "name": "node-test",
+  "type": "module",
+  "dependencies": {
+    "koa": "^2.14.1"
+  }
+}
